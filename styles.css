@@ -1,0 +1,27 @@
+
+html {
+    cursor: url(https://66.media.tumblr.com/1327376334ad2784c86a2112c00b3c15/tumblr_pd2ece4ZCu1xcyeoso6_75sq.gifv), auto;
+}
+
+body {
+    background-image: url('https://media1.tenor.com/images/87a1d82fb5bc9d1e9baee8d72739b656/tenor.gif?itemid=10909801');
+    color: white;
+    font-family: serif;
+    text-align: -webkit-center;
+  }
+
+.container {
+    background: #000;
+    margin: 40px 10px 10px 10px;
+    padding: 0px 0px 0px 0px;
+    width: 700px;
+    box-shadow: 0px 5px 10px #000000;
+} 
+
+h1 {
+    font-size: 5em;
+}
+
+h2 {
+    font-size: 3em;
+}
